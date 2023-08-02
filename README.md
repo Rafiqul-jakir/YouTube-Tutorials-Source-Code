@@ -47,4 +47,4 @@ If you would like to contribute to this project or suggest improvements, feel fr
 
 If you have any questions, suggestions, or just want to say hi, you can reach me via email at rafiquljakir@gmail.com.
 
-<p style="color: #046e29"> Happy Coding</p>
+<h3 style="color: green"> Happy Coding</h3>
