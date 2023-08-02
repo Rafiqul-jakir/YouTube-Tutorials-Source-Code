@@ -11,7 +11,7 @@ Each folder in this repository corresponds to a specific tutorial topic and cont
 
 ## Video Tutorial
 
-- [Bootstrap + Animate.css + wow.js Basic](https://youtu.be/QjhX44ICPJk){:target="_blank"}
+- [Bootstrap + Animate.css + wow.js Basic](https://youtu.be/QjhX44ICPJk)
 - [Comming Soon](#)
 - [Comming Soon](#)
 - [Comming Soon](#)
