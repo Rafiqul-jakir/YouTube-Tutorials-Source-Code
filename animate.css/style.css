@@ -1,0 +1,15 @@
+.text-purple{
+    color: purple;
+}
+#section_1{
+    animation-delay: 1s;
+    animation-duration: 2s;
+}
+#section_2{
+    animation-delay: 2s;
+    animation-duration: 2s;
+}
+#section_5{
+    animation-delay: 2s;
+    animation-duration: 2s;
+}
