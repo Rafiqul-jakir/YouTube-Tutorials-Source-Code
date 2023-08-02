@@ -1,9 +1,3 @@
-<style>
-    .green-text {
-    color: green;
-  }
-</style>
-
 # YouTube Tutorials Source Code
 
 [![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-red?logo=youtube)](https://www.youtube.com/@rafiqul-jakir)
@@ -17,7 +11,7 @@ Each folder in this repository corresponds to a specific tutorial topic and cont
 
 ## Video Tutorial
 
-- [Bootstrap + Animate.css + wow.js Basic](https://youtu.be/QjhX44ICPJk)
+- [Bootstrap + Animate.css + wow.js Basic](https://youtu.be/QjhX44ICPJk){:target="_blank" rel="noopener"}
 - [Comming Soon](#)
 - [Comming Soon](#)
 - [Comming Soon](#)
@@ -53,4 +47,4 @@ If you would like to contribute to this project or suggest improvements, feel fr
 
 If you have any questions, suggestions, or just want to say hi, you can reach me via email at rafiquljakir@gmail.com.
 
-<h3 class= "green-text"> Happy Coding</h3>
+<h3> Happy Coding</h3>
