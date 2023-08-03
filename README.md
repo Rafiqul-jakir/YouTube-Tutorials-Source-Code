@@ -12,7 +12,7 @@ Each folder in this repository corresponds to a specific tutorial topic and cont
 ## Video Tutorial
 
 - [Bootstrap + Animate.css + wow.js Basic](https://youtu.be/QjhX44ICPJk)
-- [Comming Soon](#)
+- [bxSlider ](https://youtu.be/eu0czABETdY)
 - [Comming Soon](#)
 - [Comming Soon](#)
 
