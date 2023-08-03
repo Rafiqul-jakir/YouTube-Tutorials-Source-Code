@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Animate</title>
+    <link rel="stylesheet" href="css/boot.css" />
+    <link rel="stylesheet" href="css/animate.css" />
+    <link rel="stylesheet" href="css/jquery.bxslider.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="bg-success text-center p-4 text-white">
+          <h1>Animation</h1>
+        </div>
+      </header>
+      <section>
+        <div class="slider">
+          <div class="img_cnt"><img src="img/1.jpg" alt="" srcset="" /></div>
+          <div class="img_cnt"><img src="img/2.jpg" alt="" srcset="" /></div>
+          <div class="img_cnt"><img src="img/3.jpg" alt="" srcset="" /></div>
+        </div>
+      </section>
+      <section
+        id="section_1"
+        class="text-left bg-info p-4 mt-4 animate__animated animate__fadeOutTopRight"
+      >
+        <h1>Section 1</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
+          officia vero quaerat quia animi praesentium est explicabo libero nihil
+          adipisci quo rerum aut beatae nostrum aperiam quam, asperiores
+          accusamus. Laboriosam quia perferendis assumenda, aliquid dolor illo
+          fugiat aut deleniti. Magni.
+        </p>
+      </section>
+
+      <section
+        id="section_2"
+        class="text-left bg-info p-4 mt-4 animate__animated animate__fadeOutTopRight"
+      >
+        <h1>Section 2</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
+          officia vero quaerat quia animi praesentium est explicabo libero nihil
+          adipisci quo rerum aut beatae nostrum aperiam quam, asperiores
+          accusamus. Laboriosam quia perferendis assumenda, aliquid dolor illo
+          fugiat aut deleniti. Magni.
+        </p>
+      </section>
+
+      <section id="section_3" class="text-left bg-info p-4 mt-4">
+        <h1>Section 3</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
+          officia vero quaerat quia animi praesentium est explicabo libero nihil
+          adipisci quo rerum aut beatae nostrum aperiam quam, asperiores
+          accusamus. Laboriosam quia perferendis assumenda, aliquid dolor illo
+          fugiat aut deleniti. Magni.
+        </p>
+      </section>
+
+      <section id="section_4" class="text-left bg-info p-4 mt-4">
+        <h1>Section 4</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
+          officia vero quaerat quia animi praesentium est explicabo libero nihil
+          adipisci quo rerum aut beatae nostrum aperiam quam, asperiores
+          accusamus. Laboriosam quia perferendis assumenda, aliquid dolor illo
+          fugiat aut deleniti. Magni.
+        </p>
+      </section>
+
+      <section
+        id="section_5"
+        class="text-left bg-info p-4 mt-4 animate__animated animate__backInDown wow"
+      >
+        <h1>Section 5</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
+          officia vero quaerat quia animi praesentium est explicabo libero nihil
+          adipisci quo rerum aut beatae nostrum aperiam quam, asperiores
+          accusamus. Laboriosam quia perferendis assumenda, aliquid dolor illo
+          fugiat aut deleniti. Magni.
+        </p>
+      </section>
+
+      <section id="section_6" class="text-left bg-info p-4 mt-4">
+        <h1>Section 6</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
+          officia vero quaerat quia animi praesentium est explicabo libero nihil
+          adipisci quo rerum aut beatae nostrum aperiam quam, asperiores
+          accusamus. Laboriosam quia perferendis assumenda, aliquid dolor illo
+          fugiat aut deleniti. Magni.
+        </p>
+      </section>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>
+      new WOW().init();
+      $(document).ready(function () {
+        $(".slider").bxSlider({
+          auto: true,
+          mode: "fade",
+        });
+      });
+    </script>
+  </body>
+</html>
