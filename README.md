@@ -13,7 +13,7 @@ Each folder in this repository corresponds to a specific tutorial topic and cont
 
 - [Bootstrap + Animate.css + wow.js Basic](https://youtu.be/QjhX44ICPJk)
 - [bxSlider ](https://youtu.be/eu0czABETdY)
-- [Comming Soon](#)
+- [Owl Carousel](https://youtu.be/k99zzmUWrw0)
 - [Comming Soon](#)
 
 ## Table of Contents
@@ -22,7 +22,7 @@ Each folder in this repository corresponds to a specific tutorial topic and cont
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#Contact)
 
 ## Getting Started
 
@@ -47,4 +47,4 @@ If you would like to contribute to this project or suggest improvements, feel fr
 
 If you have any questions, suggestions, or just want to say hi, you can reach me via email at rafiquljakir@gmail.com.
 
-<h3> Happy Coding</h3>
+***Happy Coding***
