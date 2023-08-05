@@ -14,7 +14,7 @@ Each folder in this repository corresponds to a specific tutorial topic and cont
 - [Bootstrap + Animate.css + wow.js Basic](https://youtu.be/QjhX44ICPJk)
 - [bxSlider ](https://youtu.be/eu0czABETdY)
 - [Owl Carousel](https://youtu.be/k99zzmUWrw0)
-- [Comming Soon](#)
+- [Particles.js](https://youtu.be/OEps6d5FBzU)
 
 ## Table of Contents
 
